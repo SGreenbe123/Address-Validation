@@ -1,24 +1,3 @@
-# t
+# Address Validation.
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Takes in an excel file with a list of addresses. Displays them to the user and allows the user to edit. If the address is in the correct format, the user can select an address and view it on the map.
